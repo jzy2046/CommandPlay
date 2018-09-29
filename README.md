@@ -14,5 +14,4 @@
 os.system('type ' + txtPath + str(txt_count) + '.txt')
 ,type需要改成cat,win不需要修改`
 
-
-![image](https://github.com/jzy2046/CommandPlay/tree/master/images/yanshi.png)
+![演示图片丢失](https://github.com/jzy2046/CommandPlay/tree/master/images/yanshi.png)
